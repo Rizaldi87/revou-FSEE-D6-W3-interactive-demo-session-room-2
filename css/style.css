@@ -61,6 +61,7 @@ header {
 
 /* SECTION */
 section {
+  height: 100vh;
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
